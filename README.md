@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 - 🔭 Currently working on Blockchain  
-- 🌱 Now learning Fintech (@Whorton)
+- 🌱 Now learning Fintech
 - 💬 Ask me about Customer loyalty 
 
 <!--
