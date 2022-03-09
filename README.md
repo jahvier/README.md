@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on Blockchain  
 - 🌱 Now learning Fintech
-- 💬 Ask me about Customer loyalty 
+- 💬 Ask me about consumer loyalty 
 
 <!--
 - 👯 I’m looking to collaborate on 
