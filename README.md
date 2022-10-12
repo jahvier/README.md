@@ -1,8 +1,8 @@
 ### Hello world 👋
 
-- 🔭 Currently working on Blockchain  
-- 🌱 Now learning Fintech
-- 💬 Ask me about consumer loyalty 
+- 🔭 Currently working on Revops  
+- 🌱 Deep dive Revops Data Engineering  
+- 💬 Ask me about consumer Loyalty/ Growth 
 
 <!--
 - 👯 I’m looking to collaborate on 
